@@ -1,3 +1,3 @@
-# This program prints Hello, world!
+i/usr/bin/bash: wq:: command not found
 
-print('Hello, world!')
+print('Hello, muma!')
